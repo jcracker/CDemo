@@ -10,4 +10,5 @@ main()
 	string sql="insert into user(username,password) values('wangpeng','password');";
 	mysql_query(&mysql,sql.c_str());
 	mysql_close(&mysql);
+	//demo
 }
