@@ -1,0 +1,5 @@
+g++ -o test tinyxmlTest.cpp ./libtinyxml.a
+
+./test
+
+attention  create info.xml

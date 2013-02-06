@@ -1,0 +1,6 @@
+<Persons>
+	<person ID="1">
+		<name>wangpeng</name>
+		<age>22</age>
+	</person>
+</Persons>
